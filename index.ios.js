@@ -1,0 +1,1 @@
+import tabsExample from './tabsExample'
