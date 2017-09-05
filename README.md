@@ -3,8 +3,7 @@
 ## Temas tratados:
 * Importancia de la navegación
 * En qué estado está la navegación. Componentes deprecados.
-* Wix React Native Navigation
-	* Instalacion
+* Router Flux
 	* Ejemplo Tabs
 
 ## Para ejecutar este Ejemplo
@@ -13,6 +12,3 @@
 
 IOS
 `react-native run-ios`
-
-Android
-`react-native run-android`
